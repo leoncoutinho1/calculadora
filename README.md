@@ -6,7 +6,7 @@
 
 Seja muito bem vindo.
 
-<img src='./src/images/calculator.png' />
+<img src='./src/images/calculator.gif' />
 
 
 ## 🚀 Tecnologias
